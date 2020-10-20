@@ -1,5 +1,5 @@
-import 'package:ebrarinplanlari/data/dbHelper.dart';
-import 'package:ebrarinplanlari/models/Plan.dart';
+import 'package:[PROJECT NAME]/data/dbHelper.dart';
+import 'package:[PROJECT NAME]/models/Plan.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
