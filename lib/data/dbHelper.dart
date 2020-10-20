@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:ebrarinplanlari/models/Plan.dart';
+import 'package:[PROJECTNAME]/models/Plan.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
