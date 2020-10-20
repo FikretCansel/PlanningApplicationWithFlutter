@@ -1,7 +1,7 @@
-import 'package:ebrarinplanlari/data/dbHelper.dart';
-import 'package:ebrarinplanlari/models/Plan.dart';
-import 'package:ebrarinplanlari/screens/plan_add.dart';
-import 'package:ebrarinplanlari/screens/plan_details.dart';
+import 'package:[PROJECT NAME]/data/dbHelper.dart';
+import 'package:[PROJECT NAME]/models/Plan.dart';
+import 'package:[PROJECT NAME]/screens/plan_add.dart';
+import 'package:[PROJECT NAME]/screens/plan_details.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
